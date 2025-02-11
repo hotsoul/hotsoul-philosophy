@@ -6,7 +6,7 @@
 - 食卓の半分以上が「手作り」である生活
 
 ビジョンスケッチ    
-<img src="img/ビジョンスケッチ.png" alt="ビジョンスケッチ" title="ビジョンスケッチ" width="800" height="">
+<img src="img/ビジョンスケッチ.png" alt="ビジョンスケッチ" title="ビジョンスケッチ" width="600" height="">
 
 ## 参考図書
 
